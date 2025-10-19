@@ -69,14 +69,17 @@ npm install
 cd ../frontend
 npm install
 ```
+### 4. Install LiveKit AI dependencies
+```
+cd ../livekit-ai-agent
+npm install
+```
+
 ### 4. Configure Firebase
 ```
 Create a Firebase project.
-
 Add a Firestore database with two collections:
-
 knowledgeBase → stores learned Q&A
-
 helpRequests → stores pending/resolved requests
 
 ```
