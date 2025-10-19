@@ -1,0 +1,166 @@
+{
+  "helpRequests": [
+    {
+      "id": "1760730713283",
+      "question": "Do you offer home visits?",
+      "callerId": "123",
+      "status": "unresolved",
+      "timestamp": "2025-10-17T19:51:53.283Z",
+      "timeoutMinutes": 0.1,
+      "resolvedAt": "2025-10-17T19:55:39.719Z"
+    },
+    {
+      "id": "1760730921418",
+      "question": "Do you offer home visits?",
+      "callerId": "123",
+      "status": "unresolved",
+      "timestamp": "2025-10-17T19:55:21.418Z",
+      "timeoutMinutes": 0.1,
+      "resolvedAt": "2025-10-17T19:55:39.719Z"
+    },
+    {
+      "id": "1760813779764",
+      "question": "What are your timings?",
+      "callerId": "Caller1",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T18:56:19.764Z",
+      "resolvedAt": "2025-10-18T20:00:42.824Z"
+    },
+    {
+      "id": "1760813784313",
+      "question": "What are your timings?",
+      "callerId": "Caller1",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T18:56:24.313Z",
+      "resolvedAt": "2025-10-18T20:00:42.824Z"
+    },
+    {
+      "id": "1760813785953",
+      "question": "What are your timings?",
+      "callerId": "Caller1",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T18:56:25.953Z",
+      "resolvedAt": "2025-10-18T20:00:42.824Z"
+    },
+    {
+      "id": "1760813813989",
+      "question": "What are your timings?",
+      "callerId": "Caller1",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T18:56:53.989Z",
+      "resolvedAt": "2025-10-18T20:00:42.824Z"
+    },
+    {
+      "id": "1760814258704",
+      "question": "Do you offer home visits?",
+      "callerId": "Caller1",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T19:04:18.704Z",
+      "normalizedQuestion": "do you offer home visits",
+      "resolvedAt": "2025-10-18T20:00:42.824Z"
+    },
+    {
+      "id": "1760814330084",
+      "question": "Do you offer home visits?",
+      "callerId": "Caller1",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T19:05:30.084Z",
+      "normalizedQuestion": "do you offer home visits",
+      "resolvedAt": "2025-10-18T20:00:42.824Z"
+    },
+    {
+      "id": "1760814424911",
+      "question": "Do you offer home visits?",
+      "callerId": "Caller1",
+      "status": "resolved",
+      "timestamp": "2025-10-18T19:07:04.911Z",
+      "normalizedQuestion": "do you offer home visits",
+      "answer": "Yes, we do offer home visits.",
+      "resolvedAt": "2025-10-18T19:08:50.225Z"
+    },
+    {
+      "id": "1760815562281",
+      "question": "Do you provide hair coloring?",
+      "callerId": "123",
+      "status": "resolved",
+      "timestamp": "2025-10-18T19:26:02.281Z",
+      "normalizedQuestion": "do you provide hair coloring",
+      "answer": "Yes, we provide hair coloring.",
+      "resolvedAt": "2025-10-18T19:28:21.833Z"
+    },
+    {
+      "id": "1760815773515",
+      "question": "Do you provide hair coloring?",
+      "callerId": "456",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T19:29:33.515Z",
+      "normalizedQuestion": "do you provide hair coloring",
+      "resolvedAt": "2025-10-18T20:00:42.824Z"
+    },
+    {
+      "id": "1760815784151",
+      "question": "Do you provide hair coloring?",
+      "callerId": "456",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T19:29:44.151Z",
+      "normalizedQuestion": "do you provide hair coloring",
+      "resolvedAt": "2025-10-18T20:00:42.824Z"
+    },
+    {
+      "id": "1760815785539",
+      "question": "Do you provide hair coloring?",
+      "callerId": "456",
+      "status": "resolved",
+      "timestamp": "2025-10-18T19:29:45.539Z",
+      "normalizedQuestion": "do you provide hair coloring",
+      "answer": "Yes, we provide hair coloring.",
+      "resolvedAt": "2025-10-18T19:30:46.564Z"
+    },
+    {
+      "id": "1760816660227",
+      "question": "Do you offer hair styling?",
+      "callerId": "Caller123",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T19:44:20.227Z",
+      "normalizedQuestion": "do you offer hair styling",
+      "resolvedAt": "2025-10-18T20:00:42.824Z"
+    },
+    {
+      "id": "1760817302864",
+      "question": "Do you provide hair spa?",
+      "callerId": "789",
+      "status": "resolved",
+      "timestamp": "2025-10-18T19:55:02.865Z",
+      "normalizedQuestion": "do you provide hair spa",
+      "answer": "Yes, we provide hair spa.",
+      "resolvedAt": "2025-10-18T19:55:32.501Z"
+    },
+    {
+      "id": "1760818086001",
+      "question": "Do you offer discounts for students?",
+      "callerId": "Caller2",
+      "status": "resolved",
+      "timestamp": "2025-10-18T20:08:06.001Z",
+      "normalizedQuestion": "do you offer discounts for students",
+      "answer": "Yes, we offer a 10% discount for students.",
+      "resolvedAt": "2025-10-18T20:08:56.171Z"
+    },
+    {
+      "id": "1760818463291",
+      "question": "Do you offer discounts for the cars",
+      "callerId": "Caller2",
+      "status": "unresolved",
+      "timestamp": "2025-10-18T20:14:23.291Z",
+      "normalizedQuestion": "do you offer discounts for the cars",
+      "resolvedAt": "2025-10-18T20:15:43.033Z"
+    }
+  ],
+  "knowledgeBase": {
+    "what are your timings": "We’re open from 9 AM to 7 PM, Monday to Saturday.",
+    "where are you located": "We’re located at MG Road, Bangalore.",
+    "do you offer home visits?": "Yes, we do offer home visits.",
+    "do you provide hair coloring?": "Yes, we provide hair coloring.",
+    "do you provide hair spa?": "Yes, we provide hair spa.",
+    "do you offer discounts for students?": "Yes, we offer a 10% discount for students."
+  }
+}
