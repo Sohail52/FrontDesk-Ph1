@@ -64,11 +64,32 @@ cd backend
 npm install
 ```
 
-###3. Install frontend dependencies
-
+### 3. Install frontend dependencies
+```
 cd ../frontend
 npm install
+```
+### 4. Configure Firebase
+```
+Create a Firebase project.
 
+Add a Firestore database with two collections:
+
+knowledgeBase → stores learned Q&A
+
+helpRequests → stores pending/resolved requests
+
+```
+### 5. Run backend
+```
+cd ../backend
+node server.js
+```
+###6. Run frontend
+```
+cd ../frontend
+npm start
+```
 
 
 
