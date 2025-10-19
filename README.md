@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-** Human-in-the-Loop is an digital helpdesk system that automates customer query handling. It instantly answers known questions using a dynamic knowledge base and escalates unknown queries to a human supervisor. The system learns over time by updating its knowledge base with supervisor-provided answers, improving its accuracy and responsiveness with each interaction.
+* Human-in-the-Loop is an digital helpdesk system that automates customer query handling. It instantly answers known questions using a dynamic knowledge base and escalates unknown queries to a human supervisor. The system learns over time by updating its knowledge base with supervisor-provided answers, improving its accuracy and responsiveness with each interaction.
 
 
 ### 🏗 Tech Stack
@@ -13,7 +13,7 @@
 - **Database**: Firebase Firestore
 - **AI Simulation**: LiveKit 
 
-- 
+  
 ### Features
 
 - **AI agent can answer known questions immediately.
@@ -29,7 +29,7 @@
 ---
 
 ## 🧩 Architecture
-
+```
 Caller (POST /api/ask)
         │
         ▼
@@ -48,7 +48,7 @@ Caller (POST /api/ask)
                                      AI responds to caller
 
                                      
-
+```
 ```
 Collections in Firebase Firestore:
 
