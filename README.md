@@ -69,11 +69,6 @@ npm install
 cd ../frontend
 npm install
 ```
-### 4. Install LiveKit AI dependencies
-```
-cd ../livekit-ai-agent
-npm install
-```
 
 ### 4. Configure Firebase
 ```
